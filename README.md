@@ -1,2 +1,2 @@
-# Exercises_21-25
+# Exercises-21-25
 Solution with description
