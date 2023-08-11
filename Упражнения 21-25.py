@@ -89,3 +89,10 @@ C = 60       # Переводим минуты в секунды
 D = 0
 
 time = int(input('Введите временной промежуток с секундах: '))     # Запрашиваем ввод от пользователя
+
+duration_1 = time // A
+duration_2 = time // B
+duration_3 = time // C
+duration_4 = time + D
+
+print(f'{duration_1}:{duration_2}:{duration_3}:{duration_4}: время')
